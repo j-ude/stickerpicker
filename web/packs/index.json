@@ -1,5 +1,6 @@
 {
   "packs": [
+    "cutehops.json",
     "discord.json"
   ],
   "homeserver_url": "https://matrix.cutehops.net"
