@@ -1,6 +1,7 @@
 {
   "packs": [
-    "cutehops.json"
+    "cutehops.json",
+    "shiguretest.json"
   ],
   "homeserver_url": "https://matrix.cutehops.net"
 }
